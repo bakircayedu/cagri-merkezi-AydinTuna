@@ -1,0 +1,10 @@
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\bin\Debug\Veri Yapıları Çağrı Merkezi Ödevi.exe.config
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\bin\Debug\Veri Yapıları Çağrı Merkezi Ödevi.exe
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\bin\Debug\Veri Yapıları Çağrı Merkezi Ödevi.pdb
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\obj\Debug\Veri Yapıları Çağrı Merkezi Ödevi.csproj.AssemblyReference.cache
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\obj\Debug\Veri_Yapıları_Çağrı_Merkezi_Ödevi.cagriMerkezi.resources
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\obj\Debug\Veri_Yapıları_Çağrı_Merkezi_Ödevi.Properties.Resources.resources
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\obj\Debug\Veri Yapıları Çağrı Merkezi Ödevi.csproj.GenerateResource.cache
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\obj\Debug\Veri Yapıları Çağrı Merkezi Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\obj\Debug\Veri Yapıları Çağrı Merkezi Ödevi.exe
+C:\Users\tunaa\Source\Repos\Veri-Yapilari-Odevi-Cagri-Merkezi\Veri Yapıları Çağrı Merkezi Ödevi\obj\Debug\Veri Yapıları Çağrı Merkezi Ödevi.pdb
